@@ -19,4 +19,3 @@
 --add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
 --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
 
--javaagent:D:\installment\jetbra-ded4f9dc4fcb60294b21669dafa90330f2713ce4\jetbra\ja-netfilter.jar=jetbrains
